@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <style name="Theme.Transparent" parent="Theme.WhatsappNumberOpener">
+         <item name="android:windowIsTranslucent">true</item>
+         <item name="android:windowBackground">@color/transp</item>
+         <item name="android:windowContentOverlay">@null</item>
+         <item name="windowNoTitle">true</item>
+         <item name="android:backgroundDimEnabled">false</item>
+     </style>
+
+    <color name="transp">#00000000</color>
+</resources>
